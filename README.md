@@ -1,2 +1,3 @@
 # MA-Ahi
- For 1st time to create a Repository
+ This is my 1st time Git Repository
+ Author - Maahi..
